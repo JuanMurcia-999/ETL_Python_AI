@@ -1,21 +1,17 @@
-# ETL de factutras con puython e IA
+# ETL of Invoices with Python and AI
 
+This project involves the **extraction of information** from digital invoices in PDF format using **free artificial intelligence models**, which is then **loaded into an SQL database**—in this case, **SQLite**. The extracted data is then analyzed using **Power BI**.
 
-Este proyecto consiste en la extraccion de informacion de facturas digitales en formato pdf haciendo uso de modelos de inteligencia artifical 
-gratuitos para despues ser volcada a una base de datos SQL, en etse SQLlite y con estos poder realizar una analisis en power BI 
+The sample invoices shown here were generated using AI.
 
-las facturas de ejemplo aqui mostradas fueron generadas por IA
-
-## Ejemplo de factura:
+## Sample Invoice:
 
 ![image](https://github.com/user-attachments/assets/9222ccff-1a56-4632-ace0-320d8031a083)
 
-
-## Datos extraidos y cargados a la base de datos:
+## Extracted Data Loaded into the Database:
 
 ![image](https://github.com/user-attachments/assets/3df6827f-909b-4f7b-a047-c4a3b834803a)
 
-## ashborad realziado en power Bi con los datos extraidos:
+## Dashboard Created in Power BI with the Extracted Data:
 
 ![image](https://github.com/user-attachments/assets/c19ac090-e519-4a4d-bc8b-a1d236fcb24f)
-
