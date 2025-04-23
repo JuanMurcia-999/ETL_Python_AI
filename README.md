@@ -1,6 +1,6 @@
 # ETL de Facturas con Python e IA
 
-Este proyecto consiste en la **extracción de información** de facturas digitales en formato PDF, haciendo uso de **modelos de inteligencia artificial gratuitos proporcionados por la API de OpenRouter.ai ** . Posteriormente, los datos extraídos se **vuelcan en una base de datos SQL**, en este caso **SQLite**, para finalmente ser analizados mediante **Power BI**.
+Este proyecto consiste en la **extracción de información** de facturas digitales en formato PDF, haciendo uso de **modelos de inteligencia artificial gratuitos proporcionados por la API de OpenRouter.ai** . Posteriormente, los datos extraídos se **vuelcan en una base de datos SQL**, en este caso **SQLite**, para finalmente ser analizados mediante **Power BI**.
 
 Las facturas de ejemplo aquí mostradas fueron generadas mediante IA.
 
